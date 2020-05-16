@@ -12,5 +12,3 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 Wand also requires Ghostscript to scanning pdf file. To install Ghostscript, simply follow the link:
 https://www.ghostscript.com/download.html
 
-3. Spacy package is involed in this program, to install Spacy, simply do 'pip install spacy'.
-After install Spacy, you need to install English model for Spacy, simply do 'python -m spacy download en_core_web_sm'.
