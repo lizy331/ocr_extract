@@ -1,5 +1,5 @@
 # ocr_extract
-ocr program to extract information form pdf, png, jpg, tiff files.
+ocr program to extract information from pdf, png, jpg, tiff files.
 
 # Geting Started:
 
